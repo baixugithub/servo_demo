@@ -1,0 +1,156 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Users\Robot\Desktop\servo_demo\Project\Pro\SERVO.uvproj
+Project File Date:  06/07/2015
+
+<h2>Output:</h2>
+Build target 'servo_demo'
+compiling main.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\user\src\main.c: 0 warnings, 1 error
+compiling stm32f10x_it.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\user\src\stm32f10x_it.c: 0 warnings, 1 error
+compiling servo.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Hardware\src\servo.c: 0 warnings, 1 error
+compiling misc.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Libraries\src\misc.c: 0 warnings, 1 error
+compiling stm32f10x_exti.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Libraries\src\stm32f10x_exti.c: 0 warnings, 1 error
+compiling stm32f10x_gpio.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Libraries\src\stm32f10x_gpio.c: 0 warnings, 1 error
+compiling stm32f10x_rcc.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Libraries\src\stm32f10x_rcc.c: 0 warnings, 1 error
+compiling stm32f10x_usart.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Libraries\src\stm32f10x_usart.c: 0 warnings, 1 error
+compiling delay.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\system\src\delay.c: 0 warnings, 1 error
+compiling system.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\system\src\system.c: 0 warnings, 1 error
+compiling usart.c...
+..\..\system\src\usart.c(1): error:  #5: cannot open source input file "sys.h": No such file or directory
+..\..\system\src\usart.c:   #include "sys.h"
+..\..\system\src\usart.c:                   ^
+..\..\system\src\usart.c: ..\..\system\src\usart.c: 0 warnings, 1 error
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\CMSIS\STM32F10x\system_stm32f10x.c: 0 warnings, 1 error
+assembling startup_stm32f10x_md.s...
+Target not created
+Build target 'servo_demo'
+compiling main.c...
+..\..\user\src\main.c(2): error:  #5: cannot open source input file "sys.h": No such file or directory
+..\..\user\src\main.c:   #include "sys.h"
+..\..\user\src\main.c:                   ^
+..\..\user\src\main.c: ..\..\user\src\main.c: 0 warnings, 1 error
+compiling stm32f10x_it.c...
+compiling servo.c...
+..\..\Hardware\src\servo.c(71): warning:  #69-D: integer conversion resulted in truncation
+..\..\Hardware\src\servo.c:     ang_spe_set(1,65,500);delay_ms(50);
+..\..\Hardware\src\servo.c:                      ^
+..\..\Hardware\src\servo.c(72): warning:  #69-D: integer conversion resulted in truncation
+..\..\Hardware\src\servo.c:     ang_spe_set(1,430,500);delay_ms(50);  
+..\..\Hardware\src\servo.c:                   ^
+..\..\Hardware\src\servo.c(72): warning:  #69-D: integer conversion resulted in truncation
+..\..\Hardware\src\servo.c:     ang_spe_set(1,430,500);delay_ms(50);  
+..\..\Hardware\src\servo.c:                       ^
+..\..\Hardware\src\servo.c: ..\..\Hardware\src\servo.c: 3 warnings, 0 errors
+compiling misc.c...
+compiling stm32f10x_exti.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling delay.c...
+compiling system.c...
+compiling usart.c...
+..\..\system\src\usart.c(1): error:  #5: cannot open source input file "sys.h": No such file or directory
+..\..\system\src\usart.c:   #include "sys.h"
+..\..\system\src\usart.c:                   ^
+..\..\system\src\usart.c: ..\..\system\src\usart.c: 0 warnings, 1 error
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+Target not created
+Build target 'servo_demo'
+compiling main.c...
+..\..\user\src\main.c(2): error:  #5: cannot open source input file "sys.h": No such file or directory
+..\..\user\src\main.c:   #include "sys.h"
+..\..\user\src\main.c:                   ^
+..\..\user\src\main.c: ..\..\user\src\main.c: 0 warnings, 1 error
+compiling usart.c...
+Target not created
+Build target 'servo_demo'
+compiling main.c...
+..\..\user\src\main.c(3): error:  #5: cannot open source input file "key.h": No such file or directory
+..\..\user\src\main.c:   #include "key.h"
+..\..\user\src\main.c:                   ^
+..\..\user\src\main.c: ..\..\user\src\main.c: 0 warnings, 1 error
+compiling usart.c...
+Target not created
+Build target 'servo_demo'
+compiling main.c...
+linking...
+Program Size: Code=4692 RO-data=268 RW-data=52 ZI-data=1644  
+FromELF: creating hex file...
+"..\Output\SERVO.axf" - 0 Error(s), 0 Warning(s).
+Build target 'servo_demo'
+linking...
+Program Size: Code=4692 RO-data=268 RW-data=52 ZI-data=1644  
+FromELF: creating hex file...
+"..\Output\SERVO.axf" - 0 Error(s), 0 Warning(s).
+Build target 'servo_demo'
+compiling main.c...
+..\..\user\src\main.c(10): warning:  #69-D: integer conversion resulted in truncation
+..\..\user\src\main.c:          USART_Config(115200);
+..\..\user\src\main.c:                       ^
+..\..\user\src\main.c: ..\..\user\src\main.c: 1 warning, 0 errors
+compiling usart.c...
+linking...
+Program Size: Code=4688 RO-data=268 RW-data=52 ZI-data=1644  
+FromELF: creating hex file...
+"..\Output\SERVO.axf" - 0 Error(s), 1 Warning(s).
+Build target 'servo_demo'
+compiling main.c...
+compiling usart.c...
+linking...
+Program Size: Code=4692 RO-data=268 RW-data=52 ZI-data=1644  
+FromELF: creating hex file...
+"..\Output\SERVO.axf" - 0 Error(s), 0 Warning(s).
+Build target 'servo_demo'
+linking...
+Program Size: Code=4692 RO-data=268 RW-data=52 ZI-data=1644  
+FromELF: creating hex file...
+"..\Output\SERVO.axf" - 0 Error(s), 0 Warning(s).
